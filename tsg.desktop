@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Icon=
+Name=fast_suspend
+Exec=/home/your-user-name/fast_suspend.sh
+Name[en_US]=fast_suspend
